@@ -1,4 +1,3 @@
-#Cement
 Cement is a mod loader built for Gang Beasts using BepInEx, written in the C# Language.
 
 The mod loader automatically downloads files needed for mods to work and loades them into the game.
